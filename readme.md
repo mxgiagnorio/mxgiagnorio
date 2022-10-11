@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Maximiliano Giagnorio</h1>
-<h3 align="center">Fullstack Developer, disfruto el constante aprendizaje y los nuevos desafíos. El trabajo en equipo, adaptabilidad, comunicacion, analisis dee problemas y dedicacion son algunos de mis puntos mas fuertes.</h3>
+<h3 align="center">Fullstack Developer, disfruto el constante aprendizaje y los nuevos desafíos. El trabajo en equipo, adaptabilidad, comunicacion, analisis de problemas y dedicacion son algunos de mis puntos mas fuertes.</h3>
 
 - 💬 Preguntame sobre **React, Redux, JavaScript,HTML,CSS, NodeJs, Express, PostgreSql, Sequelize**
 
